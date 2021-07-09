@@ -1,7 +1,5 @@
 # My Great Project
-This is a second line
+This is a second line.
 
 ## Getting Started
-To get started, all you need is this repo
-
---New change
+To get started, all you need is this repo.
